@@ -1,38 +1,64 @@
-Ashlesha Naikade — Portfolio Website
-A responsive, dark-modern portfolio starter built with plain HTML, CSS and JavaScript. It is ready to publish with GitHub Pages.
-1) Personalize before publishing
-Open `index.html` and replace:
-`YOUR_EMAIL@example.com` with the email address you want recruiters to use.
-`https://www.linkedin.com/in/YOUR-LINKEDIN/` with your LinkedIn profile URL.
-`https://github.com/YOUR-GITHUB-USERNAME` with your GitHub profile URL.
-Replace `assets/profile-placeholder.svg` with your professional headshot:
-Add your image to the `assets` folder (for example, `ashlesha-headshot.jpg`).
-In `index.html`, change the image path to `assets/ashlesha-headshot.jpg`.
-Use a clear, well-lit head-and-shoulders photo. A square or portrait crop works best.
-To add your resume:
-Copy your PDF resume into `assets/` (for example, `Ashlesha_Naikade_Resume.pdf`).
-Add a link in the hero buttons or contact panel, e.g.
-`<a class="button button-ghost" href="assets/Ashlesha_Naikade_Resume.pdf" target="_blank">View resume ↗</a>`
-2) Review content carefully
-The website uses the career information shared in the conversation. Please verify:
-Exact job titles, dates and employer naming against your records.
-The CIBC assignment dates and the Allianz title.
-Your exact education credential name and graduation details.
-Every technology and tool you are comfortable discussing in an interview.
-Certifications: add only certifications you have actually earned.
-The three project tiles are case-study starters / concepts, not claims that these projects were completed. Replace them with real projects you can explain. For each project, add your role, problem, approach, tools and verified outcome. Do not publish confidential employer, client or banking information.
-3) Preview locally
-Open `index.html` in a browser. No build tools or dependencies are required. Google Fonts are loaded online; system fonts will be used if unavailable.
-4) Publish with GitHub Pages
-Create or sign in to a GitHub account.
-Create a public repository named exactly `YOUR-GITHUB-USERNAME.github.io`.
-Upload all files and folders from this package (keep `index.html` at the repository root).
-In the repository, open Settings → Pages.
-Under Build and deployment, choose Deploy from a branch.
-Select branch `main` and folder `/ (root)`, then Save.
-Wait for the deployment to finish. Your site will be at `https://YOUR-GITHUB-USERNAME.github.io/`.
-Files
-`index.html` — portfolio content
-`style.css` — responsive styling and visual design
-`script.js` — mobile navigation and current year
-`assets/profile-placeholder.svg` — replace with your own photo
+Ashlesha Naikade - Professional Portfolio
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+🌐 Live Site
+View Portfolio →
+---
+👨‍💻 About Me
+DevOps and Production Support Engineer with 4+ years of experience supporting production environments, cloud infrastructure, application deployments, and IT operations across AWS, Azure, and GCP. Experienced in incident management, troubleshooting, monitoring, release coordination, CI/CD, Linux administration, ServiceNow, and ITIL-aligned support processes. Strong hands-on experience with Kubernetes, Docker, Terraform, Ansible, Python, Bash, SQL, and cloud platforms. Brings additional experience in financial services compliance, regulatory reporting, and data governance, with a strong understanding of operating within highly controlled environments.
+
+Specializations:
+Azure AD & Active Directory
+Microsoft 365 Administration
+ServiceNow & ITSM Processes
+Desktop Support (Windows/Mac)
+Network & VPN Configuration
+Global Remote Support
+---
+📁 Portfolio Sections
+🏠 Home - Introduction and overview
+💼 Skills - Technical competencies and expertise
+📈 Experience - 4+ years of professional journey
+📞 Contact - Get in touch information
+---
+🎨 Features
+✨ Modern, tech-forward design
+📱 Fully responsive (mobile-friendly)
+🎭 Smooth animations and transitions
+🎯 Clean, professional layout
+⚡ Fast loading speed
+🌙 Dark theme optimized for tech professionals
+---
+🛠️ Built With
+HTML5 - Structure and content
+CSS3 - Styling and animations
+JavaScript - Interactivity and smooth scrolling
+Google Fonts - JetBrains Mono & Manrope typography
+---
+📧 Contact
+Email: ashleshanaikade@gmail.com
+Phone: +1 519-615-3969
+LinkedIn: https://www.linkedin.com/in/ashlesha-naikade/
+Location: ON, Canada (Open to relocation)
+---
+📄 License
+© 2026 Ashlesha Naikade. All rights reserved.
+---
+🚀 How to Update This Portfolio
+Go to the file you want to edit (usually `index.html`)
+Click the ✏️ pencil icon
+Make your changes
+Scroll down and add a commit message
+Click "Commit changes"
+Wait 2 minutes for GitHub Pages to update
+Refresh your site!
+---
+💡 Quick Links
+Edit Portfolio
+View Site
+Settings
+GitHub Pages Settings
+---
+Last Updated: March 2025
